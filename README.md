@@ -9,4 +9,4 @@ JetBrains CLion
 - `C` code 代码知识文件
 - `H` homework 随堂练习文件
 - `K` knowledge 补充知识文件
-- `Try` 其他代码文件
+- `T` 其他文件
